@@ -1,0 +1,1 @@
+# lab-of-rubik-astar
