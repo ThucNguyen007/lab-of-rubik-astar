@@ -1,3 +1,6 @@
+# Thuc Nguyen
+# Update from the materials of Artificial course at UMass Boston
+
 import numpy as np
 from collections import deque
 import bisect
